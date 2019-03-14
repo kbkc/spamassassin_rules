@@ -1,3 +1,6 @@
+remove '?' for insert to 'Global blacklist' in my hosting
+
+
 # spamassassin_rules
  
 Lista regul strony http://zabojcaspamu.pl
